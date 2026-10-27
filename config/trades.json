@@ -1,0 +1,64 @@
+{
+  "industries": [
+    {
+      "id": "construction-mep",
+      "name": { "en": "Construction & MEP", "ar": "الإنشاءات والأعمال الكهروميكانيكية" },
+      "trades": [
+        { "id": "mason", "name": { "en": "Mason", "ar": "بنّاء" }, "skillLevel": "skilled" },
+        { "id": "electrician", "name": { "en": "Electrician", "ar": "كهربائي" }, "skillLevel": "skilled" },
+        { "id": "plumber", "name": { "en": "Plumber", "ar": "سبّاك" }, "skillLevel": "skilled" },
+        { "id": "general-helper", "name": { "en": "General Helper", "ar": "عامل مساعد" }, "skillLevel": "unskilled" }
+      ]
+    },
+    {
+      "id": "logistics-warehousing",
+      "name": { "en": "Logistics & Warehousing", "ar": "الخدمات اللوجستية والمستودعات" },
+      "trades": [
+        { "id": "forklift-operator", "name": { "en": "Forklift Operator", "ar": "مشغّل رافعة شوكية" }, "skillLevel": "semi-skilled" },
+        { "id": "heavy-driver", "name": { "en": "Heavy Vehicle Driver", "ar": "سائق مركبات ثقيلة" }, "skillLevel": "skilled" },
+        { "id": "storekeeper", "name": { "en": "Storekeeper", "ar": "أمين مخزن" }, "skillLevel": "semi-skilled" },
+        { "id": "packer", "name": { "en": "Packer / Loader", "ar": "عامل تعبئة وتحميل" }, "skillLevel": "unskilled" }
+      ]
+    },
+    {
+      "id": "facility-management",
+      "name": { "en": "Facility Management", "ar": "إدارة المرافق" },
+      "trades": [
+        { "id": "cleaner", "name": { "en": "Cleaner", "ar": "عامل نظافة" }, "skillLevel": "unskilled" },
+        { "id": "hvac-technician", "name": { "en": "HVAC Technician", "ar": "فني تكييف وتبريد" }, "skillLevel": "skilled" },
+        { "id": "security-guard", "name": { "en": "Security Guard", "ar": "حارس أمن" }, "skillLevel": "semi-skilled" },
+        { "id": "landscaper", "name": { "en": "Landscaper", "ar": "عامل تنسيق حدائق" }, "skillLevel": "semi-skilled" }
+      ]
+    },
+    {
+      "id": "manufacturing",
+      "name": { "en": "Manufacturing", "ar": "التصنيع" },
+      "trades": [
+        { "id": "machine-operator", "name": { "en": "Machine Operator", "ar": "مشغّل آلات" }, "skillLevel": "semi-skilled" },
+        { "id": "welder", "name": { "en": "Welder", "ar": "لحّام" }, "skillLevel": "skilled" },
+        { "id": "qc-inspector", "name": { "en": "QC Inspector", "ar": "مفتش جودة" }, "skillLevel": "professional" },
+        { "id": "production-worker", "name": { "en": "Production Worker", "ar": "عامل إنتاج" }, "skillLevel": "unskilled" }
+      ]
+    },
+    {
+      "id": "hospitality",
+      "name": { "en": "Hospitality", "ar": "الضيافة" },
+      "trades": [
+        { "id": "cook", "name": { "en": "Cook", "ar": "طبّاخ" }, "skillLevel": "skilled" },
+        { "id": "waiter", "name": { "en": "Waiter / Waitress", "ar": "نادل" }, "skillLevel": "semi-skilled" },
+        { "id": "housekeeper", "name": { "en": "Housekeeping Attendant", "ar": "عامل تدبير منزلي" }, "skillLevel": "unskilled" },
+        { "id": "front-desk", "name": { "en": "Front Desk Agent", "ar": "موظف استقبال" }, "skillLevel": "professional" }
+      ]
+    },
+    {
+      "id": "other",
+      "name": { "en": "Other", "ar": "أخرى" },
+      "trades": [
+        { "id": "office-assistant", "name": { "en": "Office Assistant", "ar": "مساعد مكتبي" }, "skillLevel": "semi-skilled" },
+        { "id": "light-driver", "name": { "en": "Light Vehicle Driver", "ar": "سائق مركبات خفيفة" }, "skillLevel": "semi-skilled" },
+        { "id": "farm-worker", "name": { "en": "Farm Worker", "ar": "عامل زراعي" }, "skillLevel": "unskilled" },
+        { "id": "other-trade", "name": { "en": "Other (specify in notes)", "ar": "أخرى (يرجى التوضيح في الملاحظات)" }, "skillLevel": "unskilled" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "seo": {
+    "title": "Skilled manpower for Gulf employers",
+    "description": "Placeholder: recruitment and manpower supply for construction, logistics, facility management, manufacturing and hospitality employers across the GCC."
+  },
+  "hero": {
+    "eyebrow": "Recruitment & manpower supply",
+    "title": "Hire vetted workers, ready to deploy",
+    "subtitle": "Placeholder subtitle: permanent recruitment and contract manpower for employers across the Gulf.",
+    "primaryCta": "Request talent",
+    "secondaryCta": "View services"
+  },
+  "services": {
+    "title": "What we do",
+    "intro": "Placeholder introduction to the agency's core services.",
+    "items": [
+      { "title": "Permanent recruitment", "body": "Placeholder: sourcing, screening and deployment of full-time staff." },
+      { "title": "Contract manpower", "body": "Placeholder: workers supplied on project or fixed-term contracts." },
+      { "title": "Overseas sourcing", "body": "Placeholder: trade testing and selection in source countries." },
+      { "title": "Mobilisation support", "body": "Placeholder: documentation, travel and onboarding coordination." }
+    ]
+  },
+  "industries": {
+    "title": "Industries we cover",
+    "intro": "Placeholder introduction to the industries and trades supplied."
+  },
+  "whyUs": {
+    "title": "Why employers work with us",
+    "items": [
+      { "title": "Trade-tested candidates", "body": "Placeholder: practical skill checks before shortlisting." },
+      { "title": "Fast turnaround", "body": "Placeholder: shortlists within an agreed timeframe." },
+      { "title": "Compliant process", "body": "Placeholder: licensed and aligned with local labour regulations." },
+      { "title": "Single point of contact", "body": "Placeholder: one account manager from request to arrival." }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "seo": {
+    "title": "Contact",
+    "description": "Placeholder: contact details and office locations."
+  },
+  "hero": {
+    "title": "Contact us",
+    "subtitle": "Placeholder subtitle inviting employers to get in touch."
+  },
+  "channels": {
+    "title": "Get in touch"
+  },
+  "offices": {
+    "title": "Our offices"
+  },
+  "request": {
+    "title": "Ready to hire?",
+    "body": "Use the request form to tell us what you need.",
+    "button": "Request talent"
+  }
+}

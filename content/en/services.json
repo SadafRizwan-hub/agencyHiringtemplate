@@ -1,0 +1,32 @@
+{
+  "seo": {
+    "title": "Services",
+    "description": "Placeholder: permanent recruitment, contract manpower, overseas sourcing and mobilisation support."
+  },
+  "hero": {
+    "title": "Services",
+    "subtitle": "Placeholder subtitle describing the range of services."
+  },
+  "items": [
+    {
+      "title": "Permanent recruitment",
+      "body": "Placeholder body text for permanent recruitment.",
+      "points": ["Placeholder point one", "Placeholder point two", "Placeholder point three"]
+    },
+    {
+      "title": "Contract manpower",
+      "body": "Placeholder body text for contract manpower supply.",
+      "points": ["Placeholder point one", "Placeholder point two", "Placeholder point three"]
+    },
+    {
+      "title": "Overseas sourcing",
+      "body": "Placeholder body text for overseas sourcing and trade testing.",
+      "points": ["Placeholder point one", "Placeholder point two", "Placeholder point three"]
+    },
+    {
+      "title": "Mobilisation support",
+      "body": "Placeholder body text for documentation and travel coordination.",
+      "points": ["Placeholder point one", "Placeholder point two", "Placeholder point three"]
+    }
+  ]
+}

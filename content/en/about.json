@@ -1,0 +1,23 @@
+{
+  "seo": {
+    "title": "About us",
+    "description": "Placeholder: background, licensing and sourcing network of the agency."
+  },
+  "hero": {
+    "title": "About us",
+    "subtitle": "Placeholder subtitle about the agency."
+  },
+  "sections": [
+    { "title": "Who we are", "body": "Placeholder paragraph about the agency's history and focus." },
+    { "title": "How we work", "body": "Placeholder paragraph about the recruitment process." },
+    { "title": "Licensing", "body": "Placeholder paragraph about licences and compliance." }
+  ],
+  "destinationCountries": {
+    "title": "Where we place workers",
+    "intro": "Placeholder introduction to destination countries."
+  },
+  "sourceCountries": {
+    "title": "Where we recruit",
+    "intro": "Placeholder introduction to source countries."
+  }
+}

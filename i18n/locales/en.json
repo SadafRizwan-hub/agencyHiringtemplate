@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "request": "Request talent",
+    "main": "Main navigation",
+    "footer": "Footer navigation"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "switchLanguage": "Change language",
+    "whatsapp": "Chat with us on WhatsApp",
+    "home": "Home page"
+  },
+  "contact": {
+    "email": "Email",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "offices": "Offices"
+  },
+  "skillLevel": {
+    "unskilled": "Unskilled",
+    "semi-skilled": "Semi-skilled",
+    "skilled": "Skilled",
+    "professional": "Professional"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "wizard": {
+    "label": "Talent request form",
+    "stepOf": "Step {current} of {total}",
+    "steps": {
+      "trades": "Workers needed",
+      "job": "Job details",
+      "company": "Your details",
+      "review": "Review"
+    },
+    "trades": {
+      "legend": "Which workers do you need?",
+      "trade": "Trade",
+      "selectTrade": "Select a trade",
+      "headcount": "Headcount",
+      "addLine": "Add another trade",
+      "removeLine": "Remove",
+      "line": "Line {n}"
+    },
+    "job": {
+      "destination": "Destination country",
+      "selectCountry": "Select a country",
+      "contractType": "Contract type",
+      "permanent": "Permanent",
+      "contract": "Contract",
+      "startDate": "Expected start date"
+    },
+    "company": {
+      "companyName": "Company name",
+      "contactName": "Contact name",
+      "email": "Work email",
+      "phone": "Phone",
+      "notes": "Notes",
+      "notesHint": "Optional: salary range, accommodation, languages, certifications.",
+      "honeypot": "Leave this field empty"
+    },
+    "review": {
+      "intro": "Please check your request before sending.",
+      "edit": "Edit",
+      "trades": "Workers",
+      "destination": "Destination",
+      "contractType": "Contract type",
+      "startDate": "Start date",
+      "companyName": "Company",
+      "contactName": "Contact",
+      "email": "Email",
+      "phone": "Phone",
+      "notes": "Notes"
+    },
+    "actions": {
+      "next": "Next",
+      "back": "Back",
+      "submit": "Send request",
+      "submitting": "Sending…",
+      "whatsapp": "Send via WhatsApp instead",
+      "again": "Send another request"
+    },
+    "errors": {
+      "summary": "Please fix the highlighted fields.",
+      "required": "This field is required.",
+      "linesRequired": "Add at least one trade.",
+      "headcount": "Enter a whole number from 1 to 9999.",
+      "email": "Enter a valid email address.",
+      "phone": "Enter a valid phone number.",
+      "dateFuture": "Choose today or a later date.",
+      "submit": "We could not send your request. Please try again, or send it via WhatsApp."
+    },
+    "success": {
+      "title": "Request received",
+      "body": "Thank you. Our team will contact you shortly."
+    },
+    "message": {
+      "subject": "Talent request from {company}",
+      "intro": "New talent request"
+    }
+  }
+}

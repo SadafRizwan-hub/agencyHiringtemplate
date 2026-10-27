@@ -1,0 +1,13 @@
+{
+  "footer": {
+    "about": "Placeholder text: a short sentence describing the agency and the employers it serves."
+  },
+  "whatsapp": {
+    "greeting": "Hello, I would like to discuss hiring workers."
+  },
+  "cta": {
+    "title": "Need workers for an upcoming project?",
+    "body": "Tell us the trades, headcount and start date. We reply within one business day.",
+    "button": "Request talent"
+  }
+}

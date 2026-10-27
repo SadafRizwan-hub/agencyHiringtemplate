@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+/*
+ * Theme tokens. Values are injected as `--brand-*` variables on :root
+ * from config/theme.config.ts (plugins/head.ts). Do not put colour values here.
+ *
+ * Classes available: bg-primary, text-primary-contrast, bg-accent, bg-surface,
+ * text-text, text-muted, border-muted, rounded-sm|md|lg|full, font-sans.
+ */
+@theme inline {
+  --color-primary: var(--brand-primary);
+  --color-primary-contrast: var(--brand-primary-contrast);
+  --color-accent: var(--brand-accent);
+  --color-surface: var(--brand-surface);
+  --color-text: var(--brand-text);
+  --color-muted: var(--brand-muted);
+
+  --font-sans: var(--brand-font);
+
+  --radius-sm: var(--brand-radius-sm);
+  --radius-md: var(--brand-radius-md);
+  --radius-lg: var(--brand-radius-lg);
+  --radius-full: var(--brand-radius-full);
+}
+
+:root {
+  --brand-font: var(--brand-font-latin);
+}
+
+:root[dir="rtl"] {
+  --brand-font: var(--brand-font-arabic);
+}
+
+@layer base {
+  body {
+    @apply bg-surface font-sans text-text;
+  }
+}
+
+@layer components {
+  /* Shared shell for inputs, selects and textareas. */
+  .field-control {
+    @apply w-full rounded-sm border border-muted px-3 py-2;
+  }
+  .field-control[aria-invalid="true"] {
+    @apply border-2 border-accent;
+  }
+}
